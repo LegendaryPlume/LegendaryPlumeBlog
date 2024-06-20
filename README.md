@@ -2,7 +2,7 @@
 
 你好，我是LegendaryPlume，某北方沿海不知名的985博士生一枚。专业是 工程热物理 ，方向是 发动机热管理。
 希望在我的博客里分享一些我的专业知识以及我的所见所闻所感。
-我的博客网站为 legendaryplume.github.io/ 欢迎各位关注。
+我的博客网站为 https://legendaryplume.github.io/ 欢迎各位关注。
 
 
 
