@@ -1,4 +1,4 @@
-# LegendaryPlume 的CFD工具书 🔥
+# LegendaryPlume 的CFD工具书 
 
 >---
 >
