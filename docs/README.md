@@ -1,12 +1,13 @@
-# LegendaryPlume 的博客 🔥
+# LegendaryPlume 的CFD工具书 🔥
 
 
 >你好，我是 LegendaryPlume, 一名北方不知名985在读博士生，工程热物理，发动机热管理方向。在此处写一些自己的所见所感，当然也会分享记录一些在学习生活中遇到的知识。
 >目前主要使用OPENFOAM 做一些传热方面的数值仿真，平时经常会用到 服务器/集群/OPENFOAM/PARAVIEW
 >欢迎大家一起学习交流！请 ctrl+D 收藏此网页！有什么建议和意见欢迎联系！
 >---
-'a'
+
 ## 一、介绍
+### 为什么要搭建这一网站
 
 `💥为什么？写写快乐的热门文章不好吗！`
 
@@ -16,7 +17,7 @@
 
 所以🌶，又一套**成系列体系**的`《IDEA Plugin 开发手册》`内容已经为有需要的你准备好啦：
 
-![](https://bugstack.cn/images/article/knowledge/knowledge-220123-01.png)
+![你好](https://bugstack.cn/images/article/knowledge/knowledge-220123-01.png)
 
 - 此开发手册，分为4章12节循序渐进的通过实践案例开发的方式，串联 IDEA Plugin 开发的各项常用技术点，为读者讲解如何开发一个 IDEA 插件。
 - 基本开发类知识点包括：`gradle 工程创建`、`插件发布`、`Swing UI`、`各类窗体`、`菜单配置`、`工程上下文对象`、`向导步骤`、`内容存放`、`配置加载`等，通过这些知识在案例中的逐个使用，而学习如何开发插件。
