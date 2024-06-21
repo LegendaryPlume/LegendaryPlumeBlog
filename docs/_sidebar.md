@@ -1,4 +1,4 @@
-- [:octocat: 首页](/README)
+- [:octocat: 首页](/first)
 - :memo: 目录
    - 第1章：开发入门
    
