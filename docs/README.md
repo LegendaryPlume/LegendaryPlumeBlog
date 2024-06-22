@@ -45,17 +45,20 @@
 目前开通了一个QQ群用作技术交流和问题反馈：  
 本群提供一个一起学习进步的技术学习交流平台，可备注`CFD``学习加群`等等
 
+
+
+LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png
 1111
 <br/>
 <div align="left">
-    <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/tree/main/docs/assets/pic/LegendaryPlume.png?raw=true> 
+    <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true> 
 </div>
 <br/>  
 2222
-![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/tree/main/docs/assets/pic/LegendaryPlume.png?raw=true)
+![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true)
 
 3333
-<img src="https://github.com/LegendaryPlume/LegendaryPlume.github.io/tree/main/docs/assets/pic/LegendaryPlume.png" width="180" height="180"/>
+<img src="https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png" width="180" height="180"/>
 <br/>
 <div align="left">
     <a href="https://github.com/LegendaryPlume">关注LegendaryPlume，你可以学到的更多！</a>
