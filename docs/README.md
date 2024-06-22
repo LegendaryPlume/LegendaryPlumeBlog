@@ -47,18 +47,14 @@
 
 
 
-LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png
-1111
+
 <br/>
 <div align="left">
     <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true> 
 </div>
 <br/>  
-2222
-![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true)
 
-3333
-<img src="https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png" width="180" height="180"/>
+
 <br/>
 <div align="left">
     <a href="https://github.com/LegendaryPlume">关注LegendaryPlume，你可以学到的更多！</a>
