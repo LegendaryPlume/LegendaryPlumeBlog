@@ -44,6 +44,7 @@
 
 目前开通了一个QQ群用作技术交流和问题反馈：  
 本群提供一个一起学习进步的技术学习交流平台，可备注`CFD``学习加群`等等
+
 1111
 <br/>
 <div align="left">
@@ -51,7 +52,7 @@
 </div>
 <br/>  
 2222
-![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png)
+![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true)
 
 3333
 <img src="https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png" width="180" height="180"/>
