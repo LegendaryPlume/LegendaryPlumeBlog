@@ -44,25 +44,26 @@
 
 粉丝伙伴在阅读的过程中，**千万不要害怕在学习的过程中遇到问题，这些都是正常的！** 希望你可以一直坚持把这些内容事必躬亲、亲历亲为的学完，加油！
 
-## 四、问题交流
-
-![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png)
-
-<br/>
-<div align="center">
-    <a href="https://github.com/fuzhengwei/CodeGuide">关注小傅哥，你可以学到的更多！</a>
-</div>
-<br/>  
+## 问题交流
 
 - **加群交流**
 
-    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信(fustack)，备注：`学习加群`。
-    
-    <img src="https://bugstack.cn/images/personal/fustack.png" width="180" height="180"/>
+目前开通了一个QQ群用作技术交流和问题反馈：  
+本群提供一个一起学习进步的技术学习交流平台，可备注`CFD``学习加群`等等
+<br/>
+<div align="center">
+    <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png> 
+</div>
+<br/>  
 
-- **公众号(bugstack虫洞栈)**
 
-    沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析等。
-    
-    <img src="https://bugstack.cn/images/personal/qrcode.png" width="180" height="180"/>
+
+
+<br/>
+<div align="left">
+    <a href="https://github.com/LegendaryPlume">关注LegendaryPlume，你可以学到的更多！</a>
+</div>
+<br/>  
+
+
 
