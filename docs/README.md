@@ -46,7 +46,7 @@
 
 ## 四、问题交流
 
-![QQ群连接]([https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png]#pic_center)
+![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png)
 
 <br/>
 <div align="center">
