@@ -46,7 +46,7 @@
 
 ## 四、问题交流
 
-![](https://github.com/fuzhengwei/small-spring/blob/main/docs/assets/img/bugstack-md.png?raw=true)
+![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png#pic_center)
 
 <br/>
 <div align="center">
