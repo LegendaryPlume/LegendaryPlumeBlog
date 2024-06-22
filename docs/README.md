@@ -60,7 +60,7 @@
 
 <br/>
 <div align="left">
-    <a href="https://legendaryplume.github.io/">网站首页</a>
+    网站首页：<a href="https://legendaryplume.github.io/">https://legendaryplume.github.io/</a>
 </div>
 <br/>  
 
