@@ -46,7 +46,7 @@
 本群提供一个一起学习进步的技术学习交流平台，可备注`CFD``学习加群`等等
 <br/>
 <div align="left">
-    <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png> 
+    <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true> 
 </div>
 <br/>  
 
