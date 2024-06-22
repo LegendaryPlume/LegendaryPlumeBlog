@@ -1,5 +1,5 @@
-- [首页](/README)
-- :memo: 目录[/md/list.md]
+# [首页](/README)
+# :memo: [目录](/md/list.md)
    - 第1章：开发入门
    
        - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
