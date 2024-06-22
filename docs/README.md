@@ -50,7 +50,7 @@
 </div>
 <br/>  
 
-
+![](https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png)
 
 
 <br/>
