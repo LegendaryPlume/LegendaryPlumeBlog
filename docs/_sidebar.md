@@ -1,2 +1,2 @@
 - [首页](/README)
-- [:memo: 目录](md/list.md)
+- [:memo: 目录](list.md)
