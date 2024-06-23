@@ -23,7 +23,7 @@
 >---
 
 
-## 别说了，上干货吧！ <!-- {docsify-ignore-all} -->
+## 别说了，上干货吧！<!-- {docsify-ignore-all} -->
 
 
 ### 1. 适合人群
