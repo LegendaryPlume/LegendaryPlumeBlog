@@ -6,4 +6,7 @@
 那就先从下软件开始吧，Visual studio code(VScode)是一个**编辑器**(类似于word，无法运行代码，只用于写作)，需要结合`C`/`C++`**编译器**来使用
 
 看文字非常枯燥，这里推荐bilibili的up**趣字节贺宏宏**的视频
-![Visual Studio Code安装配置C/C++教程，VSCode调试教程，VSCode安装使用教程，VSCode配置c/c++](https://www.bilibili.com/video/BV19c411G7ey?p=1&vd_source=221d3894aaed044dae28e48c4e156f42)
+
+[Visual Studio Code安装配置C/C++教程，VSCode调试教程，VSCode安装使用教程，VSCode配置c/c++](https://www.bilibili.com/video/BV19c411G7ey?p=1&vd_source=221d3894aaed044dae28e48c4e156f42)
+
+看了之后就可以着手编写C/C++的代码和运行了 也算是入门的入门了。
