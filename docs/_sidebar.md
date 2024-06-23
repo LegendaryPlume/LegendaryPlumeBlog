@@ -1,2 +1,3 @@
 - [首页](/README)
-- [:memo: 目录](list.md)
+- [:memo: 导航页](list.md)
+-- [老师不会教的科研skill](skill/README.md)
