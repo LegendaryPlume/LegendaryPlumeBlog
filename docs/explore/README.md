@@ -11,3 +11,8 @@
 
 看了之后就可以着手编写C/C++的代码和运行了 也算是入门的入门了。**最重要的，最后一个视频教如何卸载，真的是从入门到卸载了**
 
+###8分钟让你快速掌握markdown
+做这个网页需要的语言就是 `markdown` 具体markdown怎么写参考如下视频
+[8分钟让你快速掌握Markdown](https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=221d3894aaed044dae28e48c4e156f42)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
