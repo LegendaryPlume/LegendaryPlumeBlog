@@ -16,3 +16,4 @@
 做这个网页需要的语言就是 `markdown` 具体markdown怎么写参考如下视频
 [8分钟让你快速掌握Markdown](https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=221d3894aaed044dae28e48c4e156f42)
 
+### 如何将文稿让AI念，并自动配字幕
