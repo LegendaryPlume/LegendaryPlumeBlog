@@ -11,11 +11,13 @@
 
 你是一名专业的学术润色写作专家，请对我接下来发给你的中文文稿翻译成英文文章，在保持原意的同时从句子结构、语法、用词、表达清晰等方面给出翻译文章
 
+---
 ### 分析文章 
 
 PDF+仔细阅读这篇文章，请从介绍，方法论，主要发现，结论等方面详细叙述这篇文章讲了什么
 
 Please read this article carefully and provide a detailed description of the Introduction ，Methodology ，Key Findings and Conclusions .
+
 ---
 ### 英译英+润色
 
