@@ -1,4 +1,5 @@
 - [首页](/README)
 - [:memo: 导航页](list.md)
+- [CFDbook工具书](cfdbook/README.md)
 - [从零开始的代码世界生活](explore/README.md)
 - [老师不会教的科研skill](skill/README.md)
