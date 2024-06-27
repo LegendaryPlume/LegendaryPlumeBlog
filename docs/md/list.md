@@ -4,7 +4,7 @@ To analyze Reynolds stress, turbulent heat flux, and velocity and temperature di
 ### Reynolds Stress Analysis
 
 1. **Definition and Importance**:
-   - Reynolds stress components (\(\overline{u'u'}\), \(\overline{v'v'}\), \(\overline{w'w'}\), and \(\overline{u'v'}\)) represent the turbulent fluctuations in the flow field, providing insight into the energy distribution and turbulence intensity in the fluid.
+   - Reynolds stress components (\($\overline{u'u'}\$), \($\overline{v'v'}\$), \($\overline{w'w'}\$), and \(\overline{u'v'}\)) represent the turbulent fluctuations in the flow field, providing insight into the energy distribution and turbulence intensity in the fluid.
    - Understanding Reynolds stresses helps in identifying the turbulence structure and its impact on heat and momentum transfer.
 
 2. **Measurement and Calculation**:
