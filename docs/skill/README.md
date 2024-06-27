@@ -27,4 +27,6 @@ Please read this article carefully and provide a detailed description of the Int
  for Example
 I’m writing a paper on Large eddy simulation of highly compressible film cooling in transonic crossflow for a leading academic journal. What I tried to say in the following section is Parameters that affect film cooling. For clarity, please rephrase the words I am going to send you, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone
 
+[Science教你用GPT](https://github.com/LegendaryPlume/LegendaryPlume.github.io/tree/main/docs/skill)
+
 ### 找论文
