@@ -58,7 +58,7 @@
           }
         }
       }
-    }                                 
+    };                             
   </script>
   
 <script src="/assets/js/md5.js"></script>
@@ -76,6 +76,13 @@
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true
+    }
+  };
+
+  // Trigger MathJax rendering after each Docsify page load
+  window.$docsify.doneEach = function() {
+    if (window.MathJax) {
+      MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
     }
   };
 </script>
