@@ -58,10 +58,12 @@
           }
         }
       },
-      // 关键是这个 ready 回调函数，确保 MathJax 在 Docsify 渲染完成后运行
-      ready: function () {
-        if (window.MathJax) {
-          MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+      // 在每次内容更新时调用 MathJax 进行解析
+      hooks: {
+        doneEach: function() {
+          if (window.MathJax) {
+            MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+          }
         }
       }
     };
