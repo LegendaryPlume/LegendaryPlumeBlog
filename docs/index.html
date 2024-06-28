@@ -61,10 +61,7 @@
       hooks: {
         doneEach: function() {
           if (window.MathJax) {
-            // 延迟调用以确保 Docsify 渲染完成后 MathJax 执行
-            setTimeout(function() {
-              MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
-            }, 500); // 500 毫秒延迟可以根据需要调整
+            MathJax.Hub.Typeset();
           }
         }
       }
