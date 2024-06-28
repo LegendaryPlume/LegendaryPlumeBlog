@@ -58,11 +58,13 @@
           }
         }
       },
-      // 在每次内容更新时调用 MathJax 进行解析
       hooks: {
         doneEach: function() {
           if (window.MathJax) {
-            MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+            // 延迟调用以确保 Docsify 渲染完成后 MathJax 执行
+            setTimeout(function() {
+              MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+            }, 500); // 500 毫秒延迟可以根据需要调整
           }
         }
       }
