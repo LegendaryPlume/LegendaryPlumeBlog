@@ -16,18 +16,6 @@
         s.parentNode.insertBefore(hm, s);
       })();
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  <script type="text/javascript">
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']]
-      },
-      svg: {
-        fontCache: 'global'
-      }
-    };
-  </script>
 </head>
 <body>
 <div id="app"></div>
@@ -47,7 +35,6 @@
       coverpage: true,
       loadNavbar: true,
       loadSidebar: true,
-      relativePath:true, 
       maxLevel: 4,
       subMaxLevel: 2,
       search: {
@@ -62,21 +49,18 @@
         crossChapter: true
       },
       markdown: {
-        smartypants: true,
         renderer: {
           code: function (code, lang) {
-            if (lang === 'mathjax') {
-              return MathJax.typesetPromise([code]).then(function () {
-                return `<pre><code class="lang-mathjax">${code}</code></pre>`;
-              });
+            if (lang === 'math') {
+              return `<div class="math">${code}</div>`;
             }
             return this.origin.code.apply(this, arguments);
           }
         }
       }
-    };
+    }                                 
   </script>
-
+  
 <script src="/assets/js/md5.js"></script>
 <script src="/assets/js/docsify.min.js"></script>
 <script src="/assets/js/gitalk.min.js"></script>
@@ -85,5 +69,15 @@
 <script src="/assets/js/zoom-image.js"></script>
 <script src="/assets/js/prism-bash.js"></script>
 <script src="/assets/js/prism-java.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+<script>
+  window.MathJax = {
+    tex2jax: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
 </body>
 </html>
