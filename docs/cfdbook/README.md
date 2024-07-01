@@ -49,14 +49,32 @@ Kurganov和Tadmor在全局中心格式的基础上，通过考虑波的传输速
  1. 基本原理
 K-equation模型基于湍动能的输运方程，通过求解一个额外的方程来计算亚格子尺度湍动能(K~sgs~)
 根据不同的问题可以设置具体的求解方程,以openfoam为例，具体的方程形式为：
+
 $$ 1 $$
+
  2. 计算复杂度
 需要求解额外的湍动能方程，计算成本较高。
  3. 适用性
+
+
 适合对湍流能量分布有较高要求的流动情况，如需精确预测湍动能的区域。
  
 ### 0002 WALE （Wall-Adapting Local Eddy-viscosity model） 模型 
+1. 基本原理
+- WALE模型（Wall-Adapting Local Eddy-viscosity model）基于局部剪切应变率的平方和旋度张量的平方之差来计算亚格子尺度湍流黏性系数。
+- 公式形式：
 
+$$ \nu_{\text{sgs}} = \left( C_s \Delta \right)^2 \left( \frac{\left( S_{ij} S_{ij} \right)^{3/2}}{\left( S_{ij} S_{ij} \right)^{5/2} + \left( W_{ij} W_{ij} \right)^{5/2}} \right) $$
+
+其中 基于局部的剪切应变率张量 S~ij~ 和W~ij~ 的平方和之差计算湍流黏性。
+
+ $$ S_{ij} = \frac{1}{2} \left( \frac{\partial \overline{u}_i}{\partial x_j} + \frac{\partial \overline{u}_j}{\partial x_i} \right) $$
+
+ $$ W_{ij} = \frac{1}{2} \left( \frac{\partial \overline{u}_i}{\partial x_j} - \frac{\partial \overline{u}_j}{\partial x_i} \right) $$
+ 
+- 
+2. 
+3. 
 
 
 
