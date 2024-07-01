@@ -52,29 +52,29 @@ K-equation模型基于湍动能的输运方程，通过求解一个额外的方�
 
 $$ 1 $$
 
- 2. 计算复杂度
-需要求解额外的湍动能方程，计算成本较高。
- 3. 适用性
-
-
+ 2. 适用性
 适合对湍流能量分布有较高要求的流动情况，如需精确预测湍动能的区域。
- 
-### 0002 WALE （Wall-Adapting Local Eddy-viscosity model） 模型 
+- 复杂流动：适用于复杂流动场中对湍流结构有高要求的模拟，如大尺度涡流与小尺度湍流相互作用明显的情况。
+- 高分辨率要求：需要在计算域内高分辨率捕捉湍动能分布，尤其在预测湍流能量谱时。
+- 依赖模型常数（如 C~k~），这些常数可能需要根据具体流动进行调节，以获得最优结果。
+ ### 0002 WALE （Wall-Adapting Local Eddy-viscosity model） 模型 
 1. 基本原理
 - WALE模型（Wall-Adapting Local Eddy-viscosity model）基于局部剪切应变率的平方和旋度张量的平方之差来计算亚格子尺度湍流黏性系数。
 - 公式形式：
 
 $$ \nu_{\text{sgs}} = \left( C_s \Delta \right)^2 \left( \frac{\left( S_{ij} S_{ij} \right)^{3/2}}{\left( S_{ij} S_{ij} \right)^{5/2} + \left( W_{ij} W_{ij} \right)^{5/2}} \right) $$
 
-其中 基于局部的剪切应变率张量 S~ij~ 和W~ij~ 的平方和之差计算湍流黏性。
+- 其中 基于局部的剪切应变率张量 S~ij~ 和W~ij~ 的平方和之差计算湍流黏性。
 
  $$ S_{ij} = \frac{1}{2} \left( \frac{\partial \overline{u}_i}{\partial x_j} + \frac{\partial \overline{u}_j}{\partial x_i} \right) $$
 
  $$ W_{ij} = \frac{1}{2} \left( \frac{\partial \overline{u}_i}{\partial x_j} - \frac{\partial \overline{u}_j}{\partial x_i} \right) $$
- 
-- 
-2. 
-3. 
+
+2. 适用性
+适用于壁面附近湍流结构的精确模拟，尤其在高雷诺数和复杂几何形状的流动中表现较好。
+- 壁面湍流：特别适用于壁面附近湍流的模拟，如壁面湍流、流动分离和再附着现象，因为其设计初衷就是为了更好地捕捉壁面湍流特性。
+- 高雷诺数流动：在高雷诺数和复杂几何形状的流动中表现较好，能够有效地捕捉流动分离和再附着现象。
+4. 
 
 
 
