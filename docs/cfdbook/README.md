@@ -1,5 +1,9 @@
 # 可压缩流体的控制方程
+
+> 刷新一下加载正确显示方程
+
 以openfpam的rhoCentralFoam为例 
+
 $$\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{U}) = 0\tag{1}$$
 
 $$\frac{\partial (\rho \mathbf{U})}{\partial t} + \nabla \cdot (\rho \mathbf{U} \mathbf{U})  + \nabla p = \nabla \cdot \tau\tag{2}$$
@@ -30,6 +34,17 @@ Kurganov和Tadmor在全局中心格式的基础上，通过考虑波的传输速
 ### KT格式的应用 
 
 在欧拉方程的求解中，密度基求解框架是常用的一个方法。KT格式通过考虑局部波速，显著提高了密度基框架下的数值求解精度和稳定性。具体来说，KT格式在每个时间步长内通过计算波的最大传输速度，动态调整耗散项的系数，既保证了解的稳定性，又尽可能减少数值耗散。
+
+# 湍流模型
+
+## LES模型
+
+### Keqn 模型
+ 1. 基本原理
+K-equation模型基于湍动能的输运方程，通过求解一个额外的方程来计算亚格子尺度湍动能(K~sgs~)
+ 3. 
+ 4. 
+
 
 ### 结论 
 
