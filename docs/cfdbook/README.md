@@ -45,7 +45,7 @@ Kurganov和Tadmor在全局中心格式的基础上，通过考虑波的传输速
 
 ## LES模型
 
-### 0001 Keqn 模型
+### 0001 KEqn 模型
  1. 基本原理
 K-equation模型基于湍动能的输运方程，通过求解一个额外的方程来计算亚格子尺度湍动能(K~sgs~)
 根据不同的问题可以设置具体的求解方程,以openfoam为例，具体的方程形式为：
@@ -57,7 +57,10 @@ $$ 1 $$
 - 复杂流动：适用于复杂流动场中对湍流结构有高要求的模拟，如大尺度涡流与小尺度湍流相互作用明显的情况。
 - 高分辨率要求：需要在计算域内高分辨率捕捉湍动能分布，尤其在预测湍流能量谱时。
 - 依赖模型常数（如 C~k~），这些常数可能需要根据具体流动进行调节，以获得最优结果。
- ### 0002 WALE （Wall-Adapting Local Eddy-viscosity model） 模型 
+
+### 0002 dynamicKEqn 模型
+
+ ### 0003 WALE （Wall-Adapting Local Eddy-viscosity model） 模型 
 1. 基本原理
 - WALE模型（Wall-Adapting Local Eddy-viscosity model）基于局部剪切应变率的平方和旋度张量的平方之差来计算亚格子尺度湍流黏性系数。
 - 公式形式：
