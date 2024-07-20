@@ -1,6 +1,6 @@
 - 本站内容
-  - [**CFD工具书**](http://www.fly63.com/tool/ascii/)
-  - [**老师不会教的科研Skill**](http://www.fly63.com/tool/ascii/)
+  - [**CFD工具书**](cfdbook/README.md)
+  - [**老师不会教的科研Skill**](Skill/README.md)
   - [**从0开始的代码世界生活**](http://www.fly63.com/tool/ascii/)
 - 开发必备
   - [**在线ASCII码表**](http://www.fly63.com/tool/ascii/)
