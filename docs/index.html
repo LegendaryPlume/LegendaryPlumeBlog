@@ -40,16 +40,12 @@
         crossChapter: true
       },
       
-      //Latex设置
-      latex: {
-        inlineMath   : [['$', '$'], ['\\(', '\\)']],
-        displayMath  : [['$$', '$$']],
-        customOptions: {
-          // For MathJax version 3
-          tex: {
-            tags: 'ams'
-          }
-        } 
+      katex: {
+        'throwOnError': false,
+        'errorColor': '#cc0000',
+        'macros': {
+          '\\RR': '\\mathbb{R}'
+        }
       },
       count:{
         countable: true,
