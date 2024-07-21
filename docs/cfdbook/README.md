@@ -4,9 +4,9 @@
 
 以openfpam的rhoCentralFoam为例 
 
-$$
+`$$
 a+b=cd
-$$
+$$`
 
 $$
 \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{U}) = 0\tag{1}
