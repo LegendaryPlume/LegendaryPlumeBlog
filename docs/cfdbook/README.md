@@ -5,7 +5,7 @@
 以openfpam的rhoCentralFoam为例 
 
 $$
-a+b=d
+a+b=c
 $$
 
 $$
