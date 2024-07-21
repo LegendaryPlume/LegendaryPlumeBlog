@@ -3,9 +3,11 @@
 > 刷新一下加载正确显示方程
 
 以openfpam的rhoCentralFoam为例 
+
 $$
 a+b=c
 $$
+
 $$
 \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{U}) = 0\tag{1}
 $$
