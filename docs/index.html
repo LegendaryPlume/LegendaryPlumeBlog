@@ -31,6 +31,17 @@
         nextText: 'NEXT',
         crossChapter: true
       },
+      MathJax = {
+        tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        processEnvironments: true
+         },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  },
       count:{
         countable: true,
         position: 'top',
@@ -41,6 +52,7 @@
         language:'chinese',
         isExpected: true
       }
+      
     }
 </script>
 <!-- Docsify v4 -->
@@ -58,19 +70,6 @@
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-latex.min.js"></script>
 <!-- MathJax -->
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
-</script>
 <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script>
   // 在 Docsify 完成渲染后触发 MathJax 渲染
