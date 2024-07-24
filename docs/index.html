@@ -30,7 +30,15 @@
         previousText: 'PREVIOUS',
         nextText: 'NEXT',
         crossChapter: true
-      },
+      }
+       plugins: [
+      function(hook, vm) {
+        hook.beforeEach(function(content) {
+          // 使用 docsify-latex 插件渲染 LaTeX 公式
+          return docsifyLatex.renderLatex(content);
+        });
+      }
+    ]
     }                                 
   </script>
   
@@ -42,6 +50,9 @@
 <script src="/assets/js/zoom-image.js"></script>
 <script src="/assets/js/prism-bash.js"></script>
 <script src="/assets/js/prism-java.min.js"></script>
+  
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-latex/dist/docsify-latex.min.js"></script>
 </body>
 
 
