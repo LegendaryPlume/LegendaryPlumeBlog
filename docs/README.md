@@ -50,7 +50,7 @@
 
 <br/>
 <div align="left">
-    <img src=https://github.com/LegendaryPlume/LegendaryPlume.github.io/blob/main/docs/assets/pic/LegendaryPlume.png?raw=true> 
+    <img src=/assets/pic/LegendaryPlume.png?raw=true> 
 </div>
 <br/>  
 
