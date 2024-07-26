@@ -64,7 +64,7 @@
 
 <br/>
 <div align="left">
-    网站首页：<a href="https://legendaryplume.github.io/">https://legendaryplume.github.io/</a>
+    网站首页：<a href="https://chuanqiplume.top">https://chuanqiplume.top/</a>
 </div>
 <br/>  
 
