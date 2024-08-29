@@ -5,7 +5,7 @@
 >>>
 
 
-# 一些很有效的 prompt 
+## 一些很有效的 prompt 命令
 
 ### 汉译英
 
@@ -31,3 +31,9 @@ Please  read this article carefully and provide a detailed description of the In
 
 ---
 ### 找论文
+
+
+## 我的收藏夹网页  
+免费的claude网站  来源LINUXDO 侵删
+
+[https://kelaode.ai/](https://kelaode.ai/)
