@@ -20,7 +20,7 @@
  for Example
 I’m writing a paper on Large eddy simulation of highly compressible film cooling in transonic crossflow for a leading academic journal. What I tried to say in the following section is Parameters that affect film cooling. For clarity, please rephrase the words I am going to send you, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone
 
-[Science教你用GPT](https://github.com/LegendaryPlume/LegendaryPlume.github.io/tree/main/docs/skill)
+[Science教你用GPT]()
 
 ---
 ### 分析文章 
@@ -37,3 +37,10 @@ Please  read this article carefully and provide a detailed description of the In
 免费的claude网站  来源LINUXDO 侵删
 
 [https://kelaode.ai/](https://kelaode.ai/)
+
+## 清理C盘的一些命令 
+1. 删除休眠文件
+
+Windows会为休眠文件保留一些空间，你可以删除hiberfil.sys文件来释放部分空间。
+1. 打开“开始”菜单，输入“cmd”，右键点击“命令提示符”，选择“以管理员身份运行”。
+2. 输入“powercfg.exe -h off”，然后按“回车”即可
